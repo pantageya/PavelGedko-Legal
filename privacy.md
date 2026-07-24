@@ -2,7 +2,7 @@
 layout: legal
 title: Privacy Policy
 description: Privacy policy for mobile applications and related services published by Pavel Gedko.
-effective_date: May 2, 2026
+effective_date: July 22, 2026
 permalink: /privacy/
 intro: This Privacy Policy explains how mobile applications and related services published by Pavel Gedko collect, use, store, and protect information.
 ---
@@ -18,6 +18,14 @@ This Privacy Policy is intended to serve as a universal privacy policy for our A
 ## 2. Information We Collect
 
 We may collect the following categories of information.
+
+### BudgetSaver-specific notes
+
+For BudgetSaver, the information you enter may include financial records and preferences such as transaction amounts, dates, currencies, categories, account or payment method labels, notes, budgets, recurring transactions, savings goals, reminder settings, app language, theme, first weekday, subscription status, and export files you choose to create.
+
+BudgetSaver stores your financial records primarily on your device using local app storage. If iCloud is available and enabled for the App, BudgetSaver may synchronize app data through Apple's iCloud and CloudKit services so your records can be available across your devices and recoverable through your Apple Account settings.
+
+BudgetSaver does not sell your financial records, does not use them for cross-context behavioral advertising, and does not use third-party advertising identifiers. BudgetSaver does not include artificial intelligence features, embedded account browsers, camera, microphone, photo library, or contacts access unless a future app update expressly adds and discloses those features.
 
 ### 2.1 Information you provide directly
 
@@ -36,8 +44,8 @@ We may collect the following categories of information.
 
 ### 2.3 Information collected automatically
 
-- App usage information, such as screen views, feature interactions, launches, session events, taps, navigation events, and general usage patterns.
-- Device and technical information, such as app version, bundle identifier, device model, operating system version, language, region, timestamps, crash data, diagnostics, performance metrics, installation identifiers, and similar technical information.
+- App usage information, such as screen views, feature interactions, launches, session events, taps, navigation events, and general usage patterns, where the relevant App includes analytics or similar measurement features.
+- Device and technical information, such as app version, bundle identifier, device model, operating system version, language, region, timestamps, crash data, diagnostics, performance metrics, installation identifiers, and similar technical information, including information made available by Apple or platform services.
 - Security and abuse-prevention signals used to maintain app integrity, troubleshoot errors, detect misuse, and protect the Service.
 
 ### 2.4 Subscription and transaction information
@@ -132,6 +140,8 @@ Depending on the App and feature set, the App may request access to device permi
 You can manage many permissions in your device settings. If you deny or revoke permissions, some features may not function properly.
 
 Permission prompts are controlled by the operating system. Granting a permission does not always mean every item available through that permission is uploaded or collected by us; the App may use the permission only locally or only when you choose a specific action.
+
+For BudgetSaver, permissions and device features may include notifications for spending, recurring payment, or savings goal reminders; biometrics such as Face ID or Touch ID for app lock where enabled by you; secure storage for app lock data; and iCloud/CloudKit sync through Apple platform services. BudgetSaver does not require camera, microphone, photo library, contacts, or location access for its current core budgeting features.
 
 ## 9. Local Storage, Secure Storage, and On-Device Data
 

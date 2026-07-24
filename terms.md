@@ -2,7 +2,7 @@
 layout: legal
 title: Terms of Use
 description: Legal terms governing mobile applications and related services published by Pavel Gedko.
-effective_date: May 2, 2026
+effective_date: July 22, 2026
 permalink: /terms/
 intro: These Terms of Use govern your access to and use of mobile applications and related services published by Pavel Gedko.
 ---
@@ -37,6 +37,8 @@ Depending on the App and feature set, the Service may allow you to:
 Not every App includes every feature described in these Terms. Features may vary by App, device, operating system version, country, subscription tier, or third-party availability.
 
 Unless an App expressly states otherwise, the Service is intended for general consumer, productivity, creative, informational, communication, workflow, utility, entertainment, and business-support purposes. It is not a substitute for regulated professional advice or safety-critical systems.
+
+For BudgetSaver, the App is intended to help you record and review personal budget information, including transactions, categories, budgets, recurring payments, savings goals, reminders, reports, backups, and subscription-protected features. BudgetSaver is a personal finance organization tool and does not provide financial, investment, tax, accounting, legal, or other regulated professional advice.
 
 ## 4. Third-Party Services, Websites, and Accounts
 
@@ -83,6 +85,8 @@ Unless otherwise required by applicable law, cancellations and refunds for App S
 
 Depending on the App, you may provide content, files, prompts, text, images, recordings, browser/session data, settings, labels, account references, or other materials ("User Content").
 
+For BudgetSaver, User Content may include financial entries, amounts, currencies, dates, categories, payment method or account labels, notes, recurring transaction details, budgets, savings goals, reminder settings, exported CSV files, PDF reports, and backup files. You are responsible for the accuracy of the information you enter and for reviewing exported files before sharing them outside the App.
+
 You retain ownership of your User Content, subject to the rights of third parties and applicable law.
 
 By submitting or using User Content through the Service, you grant us and our service providers a worldwide, non-exclusive, royalty-free, sublicensable license to host, store, reproduce, process, adapt, transmit, display, and use that User Content only as reasonably necessary to operate, maintain, secure, troubleshoot, improve, and provide the relevant App or feature you requested.
@@ -97,6 +101,8 @@ You represent and warrant that:
 You are solely responsible for your User Content and for the consequences of submitting, storing, sharing, exporting, or using it.
 
 You are responsible for keeping your own backups of important User Content, exports, local records, settings, and results. We do not guarantee that locally stored data, synced data, cached materials, browser/session data, outputs, or histories will always be preserved, recoverable, or available across devices, operating system updates, app updates, deletions, reinstalls, subscription changes, or third-party service changes.
+
+If BudgetSaver uses iCloud or CloudKit sync, that sync is provided through Apple platform services and may depend on your Apple Account, iCloud settings, device connectivity, storage availability, and Apple's service availability. Deleting records in the App or changing iCloud settings may affect local and synced copies of your data.
 
 ## 8. AI, Automation, and Software-Assisted Features
 
@@ -119,6 +125,8 @@ Depending on the App and the features you choose to use, the App may request acc
 You can manage many permissions in your device settings. If you deny or revoke permissions, some features may not function properly or at all.
 
 Some Apps may store information on your device, in secure device storage, or through operating-system sync features such as iCloud where available and enabled. Those platform features are also subject to the applicable platform provider's terms and settings.
+
+For BudgetSaver, device features may include local notifications for reminders, secure storage for app lock data, biometric authentication where enabled by you, temporary local files for exports, and iCloud/CloudKit sync through Apple platform services. BudgetSaver's current budgeting features do not require camera, microphone, photo library, contacts, or location access.
 
 ## 10. Acceptable Use
 
