@@ -5,6 +5,8 @@ description: Privacy policy for mobile applications and related services publish
 effective_date: July 22, 2026
 permalink: /privacy/
 intro: This Privacy Policy explains how mobile applications and related services published by Pavel Gedko collect, use, store, and protect information.
+lang: en
+alternate_url: /ru/privacy/
 ---
 
 ## 1. Scope
@@ -19,13 +21,13 @@ This Privacy Policy is intended to serve as a universal privacy policy for our A
 
 We may collect the following categories of information.
 
-### BudgetSaver-specific notes
+### Expense Tracker-specific notes
 
-For BudgetSaver, the information you enter may include financial records and preferences such as transaction amounts, dates, currencies, categories, account or payment method labels, notes, budgets, recurring transactions, savings goals, reminder settings, app language, theme, first weekday, subscription status, and export files you choose to create.
+For Expense Tracker, the information you enter may include financial records and preferences such as transaction amounts, dates, currencies, categories, account or payment method labels, notes, budgets, recurring transactions, savings goals, reminder settings, app language, theme, first weekday, subscription status, and export files you choose to create.
 
-BudgetSaver stores your financial records primarily on your device using local app storage. If iCloud is available and enabled for the App, BudgetSaver may synchronize app data through Apple's iCloud and CloudKit services so your records can be available across your devices and recoverable through your Apple Account settings.
+Expense Tracker stores your financial records primarily on your device using local app storage. If iCloud is available and enabled for the App, Expense Tracker may synchronize app data through Apple's iCloud and CloudKit services so your records can be available across your devices and recoverable through your Apple Account settings.
 
-BudgetSaver does not sell your financial records, does not use them for cross-context behavioral advertising, and does not use third-party advertising identifiers. BudgetSaver does not include artificial intelligence features, embedded account browsers, camera, microphone, photo library, or contacts access unless a future app update expressly adds and discloses those features.
+Expense Tracker does not sell your financial records, does not use them for cross-context behavioral advertising, and does not use third-party advertising identifiers. Expense Tracker does not include artificial intelligence features, embedded account browsers, camera, microphone, photo library, or contacts access unless a future app update expressly adds and discloses those features.
 
 ### 2.1 Information you provide directly
 
@@ -141,7 +143,7 @@ You can manage many permissions in your device settings. If you deny or revoke p
 
 Permission prompts are controlled by the operating system. Granting a permission does not always mean every item available through that permission is uploaded or collected by us; the App may use the permission only locally or only when you choose a specific action.
 
-For BudgetSaver, permissions and device features may include notifications for spending, recurring payment, or savings goal reminders; biometrics such as Face ID or Touch ID for app lock where enabled by you; secure storage for app lock data; and iCloud/CloudKit sync through Apple platform services. BudgetSaver does not require camera, microphone, photo library, contacts, or location access for its current core budgeting features.
+For Expense Tracker, permissions and device features may include notifications for spending, recurring payment, debt, or savings goal reminders; biometrics such as Face ID or Touch ID for app lock where enabled by you; secure storage for app lock data; and iCloud/CloudKit sync through Apple platform services. Expense Tracker does not require camera, microphone, photo library, contacts, or location access for its current core budgeting features.
 
 ## 9. Local Storage, Secure Storage, and On-Device Data
 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,9 +13,23 @@
       <p class="eyebrow">{{ site.title }}</p>
       <h1>{{ page.title }}</h1>
       <div class="hero-meta">
+        {% if page.lang == "ru" %}
+        <span class="pill">Дата вступления в силу: {{ page.effective_date }}</span>
+        <span class="pill">Для мобильных приложений</span>
+        {% else %}
         <span class="pill">Effective Date: {{ page.effective_date }}</span>
         <span class="pill">Applies to Mobile Apps</span>
+        {% endif %}
       </div>
+      <nav class="hero-meta" aria-label="{% if page.lang == 'ru' %}Выбор языка{% else %}Language selection{% endif %}">
+        {% if page.lang == "ru" %}
+        <a class="pill" href="{{ page.alternate_url | relative_url }}" style="text-decoration: none;">English</a>
+        <span class="pill" aria-current="page">Русский</span>
+        {% else %}
+        <span class="pill" aria-current="page">English</span>
+        <a class="pill" href="{{ page.alternate_url | relative_url }}" style="text-decoration: none;">Русский</a>
+        {% endif %}
+      </nav>
     </section>
 
     <section class="content-card">
@@ -34,7 +48,7 @@
       {% endif %}
     </section>
 
-    <p class="footer-note">Legal and support information for apps published by Pavel Gedko.</p>
+    <p class="footer-note">{% if page.lang == "ru" %}Юридическая информация и поддержка приложений, опубликованных Павлом Гедко.{% else %}Legal and support information for apps published by Pavel Gedko.{% endif %}</p>
   </main>
 </body>
 </html>
